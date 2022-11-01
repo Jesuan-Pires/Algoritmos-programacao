@@ -69,7 +69,8 @@ int main()
             else
             {
                 totalVeiculos--;
-                cout << "Vagas disponiveis: " << TAM - totalVeiculos - 1<< endl;
+                cout << "Vagas disponiveis: " << totalVeiculos << endl;
+                
             }
             break;
         case 3:
