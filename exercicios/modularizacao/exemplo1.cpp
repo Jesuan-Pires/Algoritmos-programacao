@@ -5,7 +5,7 @@
 
 using namespace std;
 
-#include "metodos.h"
+#include "exemplo1.h"
 
 int main(){
 
@@ -16,7 +16,7 @@ int main(){
     system("cls");
 
     popularVetor(vetor, 10);
-    exibirVetor(vetor, 10, "Dados do vetor 1\n");
+    exibirVetor(vetor , 10, "Dados do vetor 1\n");
 
 
 
